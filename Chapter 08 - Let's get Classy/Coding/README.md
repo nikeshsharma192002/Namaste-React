@@ -15,5 +15,3 @@
 - Create interval inside `componentDidMount`?
     - Use `clearInterval` to fix the issue caused by the interval
 
-
-## Created a FoodFire App from scratch using React.js and Parcel.js 🚀 [Live Project App Link 😍](https://foodfire-chapter08.netlify.app/)
