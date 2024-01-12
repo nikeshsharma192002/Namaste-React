@@ -155,4 +155,3 @@ const Header = () => {
 }
 ```
 
-## [Create a Header Component from scratch using Functional Component with JSX 🚀 Live Project App Link 😍](https://foodfire-chapter03.netlify.app/)
