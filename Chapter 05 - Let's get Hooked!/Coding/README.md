@@ -12,5 +12,3 @@
 - Use `useState` to create a variable and `bind` it to the input box.
 - Try to make your `search bar work`.
 
-
-## [Created a FoodFire App from scratch using Functional Component 🚀 Live Project App Link 😍](https://foodfire-chapter05.netlify.app/)
